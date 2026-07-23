@@ -6,7 +6,7 @@
  * This includes no assurances about being fit for any specific purpose.
  */
 
-import '@xterm/xterm/css/xterm.css'
+import '@xterm/xterm/css/xterm.css';
 import 'toastr/build/toastr.css'
 import 'github-fork-ribbon-css/gh-fork-ribbon.css'
 import './app_common.css'
